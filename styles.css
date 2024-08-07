@@ -1,0 +1,42 @@
+.attribution { 
+  font-size: 11px; 
+  text-align: center; }
+    
+.attribution a { 
+  color: hsl(228, 45%, 44%); }
+    
+img {
+  height: 200px; 
+  width: auto;
+  border-radius: 15px;}
+    
+.message {
+  display: flex; 
+  align-items: center; 
+  flex-direction: column;
+  justify-self: center;
+  width: 200px;
+  height: auto;
+  padding: 20px;
+  margin: auto;
+  background-color: white;
+  border-radius: 15px;
+  }
+
+body {background-color: hsl(212, 45%, 89%);}
+
+.first-line {
+    font-weight: bolder;
+    display: flex;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.second-line{
+    display: flex;
+    text-align: center;
+    padding-bottom: 15px;
+    font-size: 15px;
+}
